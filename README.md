@@ -2,8 +2,7 @@
 
 AI model for 2024 Chungbuk Science Exhibition
 
-> with: [DuvIsaac](https://github.com/DuvIsaac/2024GEP)
-> 
+> with: [DuvIsaac](https://github.com/DuvIsaac/2024GEP)<br>
 > If you want to try it, visit [this link](https://github.com/DuvIsaac/2024GEP)
 
 ## AI-Based Grilled Edibility Predictor Model (GEP Model)
