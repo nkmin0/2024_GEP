@@ -43,7 +43,7 @@ There’s **no script for generating the `data.yaml` file** — please create it
 - `labels`: Contains all data (images + labels) in one place.
 - `dataset`: Contains the split data (`train`, `test`, `valid`) used for model training.
 
-## #About `1234` and `123456789` folders
+### About `1234` and `123456789` folders
 
 - `1234`: Used in the model submitted for the exhibition. Contains only classes 1 to 4.
 - `123456789`: Contains all classes from 1 to 9.
