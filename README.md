@@ -27,8 +27,6 @@ Extracts frames from a video at specific time intervals.
 
 > Check the comments in the code
 
----
-
 ### `split_folder.py`
 Splits images **with labels** into `train`, `test`, and `valid` sets based on a specified ratio.
 
