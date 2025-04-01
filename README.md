@@ -6,6 +6,14 @@ AI model for 2024 Chungbuk Science Fair
 > 
 > If you want to try it, visit [this link](https://github.com/DuvIsaac/2024GEP)
 
+## AI-Based Grilled Edibility Predictor Model (GEP Model)
+
+This project introduces an AI model that analyzes images to determine the optimal timing to flip meat while grilling.  
+Using YOLOv5 for object detection, the model classifies cooking stages based on visual changes and temperature.  
+It helps users avoid overcooking by giving real-time feedback on meat doneness.  
+Two model structures (GEP1 and GEP2) were tested: full image classification and a hybrid with regression.  
+Achieved mAP 0.7+, confirming reliable prediction.  
+
 ## Code Overview
 
 ### `graph.ipynb`
